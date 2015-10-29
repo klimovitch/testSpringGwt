@@ -1,2 +1,0 @@
-serviceClass: com.netCracker.testSpringGwt.shared.services.CustomerService
-path: 4E77E62D095CDE903E1282B5DAEC6C81.gwt.rpc

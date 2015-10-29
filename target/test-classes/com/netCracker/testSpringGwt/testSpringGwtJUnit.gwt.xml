@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module rename-to="testSpringGwt">
-  <!-- Inherit our applications main module.                      -->
-  <inherits name='com.netCracker.testSpringGwt.testSpringGwt' />
-
-  <!-- Specify the path to any remote services.                   -->
-  <servlet path="/testSpringGwt/greet" class="com.netCracker.testSpringGwt.server.GreetingServiceImpl" />
-
-</module>
