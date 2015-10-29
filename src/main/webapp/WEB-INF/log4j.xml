@@ -18,5 +18,4 @@
 		<priority name="com.netCracker" value="INFO" />
 		<appender-ref ref="application" />
 	</root>
-
 </log4j:configuration>
